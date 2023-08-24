@@ -17,7 +17,7 @@
           Host: "smtp.elasticemail.com",
           Username: "rps85071@gmail.com",
           Password: "2291E9E0E2939E3456B893971BA038ECF7A9",
-          To: "abdulmateenalam997@gmail.com", // Replace with your own email address
+          To: "vinodpotdar2023@gmail.com", // Replace with your own email address
           From: "rps85071@gmail.com", // Use the user's entered email address as the "From" address
           Subject: "New Enquery from piramalrealty.netlify.app",
           Body: `Name: ${name}<br>Email: ${email}<br>Mob Number: ${mobile}`,
